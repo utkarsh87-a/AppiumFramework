@@ -1,0 +1,13 @@
+2025-01-03 19:54:39,758 DEBUG org.testng.log4testng.Logger [main] suiteXmlPath: "C:\Users\UTKARSH\IdeaProjects\AppiumFramework\testng.xml"
+2025-01-03 19:54:39,845 WARN org.testng.log4testng.Logger [main] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\UTKARSH\IdeaProjects\AppiumFramework\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-01-03 19:54:40,058 INFO org.testng.log4testng.Logger [main] [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2025-01-03 19:54:41,128 INFO org.testng.log4testng.Logger [main] [TestNG] Running:
+  C:\Users\UTKARSH\IdeaProjects\AppiumFramework\testng.xml
+
+2025-01-03 19:54:41,253 INFO base.setup [main] this is start of my project
+2025-01-03 19:54:57,755 INFO pages.ApiDemo [main] Element initiated
+2025-01-03 19:54:57,755 INFO Tests.ApiDemoTest [main] First Test started
+2025-01-03 19:54:58,857 INFO base.setup [main] this is teardown of my project
+2025-01-03 19:54:59,869 INFO base.setup [main] this is start of my project
+2025-01-03 19:55:10,297 INFO Tests.ApiDemoTest [main] Second test started
+2025-01-03 19:55:10,946 INFO base.setup [main] this is teardown of my project
